@@ -14,13 +14,13 @@ En esta PEC hay que hacer una aplicación que muestre una lista de 10 elementos 
 
 ![imagen 2](https://raw.githubusercontent.com/s71x/PEC/main/PEC3/images/2.png)
   
-- La activity es esta, es parecida, pero solo cambia el numero de elementos, muestra los cinco mejor puntuados:
+- La activity es esta, es parecida, pero solo cambia el número de elementos, muestra los cinco mejor puntuados:
 
 ![imagen 3](https://raw.githubusercontent.com/s71x/PEC/main/PEC3/images/3.png)
 
-- Y por último podemos regresar a la activity padre con el boton de la toolbar:
+- Y por último podemos regresar a la activity padre con el botón de la toolbar:
 
 ![imagen 4](https://raw.githubusercontent.com/s71x/PEC/main/PEC3/images/4.png)
 
-Aqui dejo un video para que quede mas claro: ![video 1](https://raw.githubusercontent.com/s71x/PEC/main/PEC3/video/1.mp4)
+Aquí dejo un video para que quede mas claro: ![video 1](https://raw.githubusercontent.com/s71x/PEC/main/PEC3/video/1.mp4)
 
