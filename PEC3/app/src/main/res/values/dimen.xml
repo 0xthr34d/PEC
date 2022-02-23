@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--margen del item de la lista-->
+    <dimen name="marginRightLeft_item_list">30dp</dimen>
+    <dimen name="marginTopBottom_item_list">15dp</dimen>
+
+    <dimen name="info_bar_height">40dp</dimen>
+    <dimen name="info_bar_padding">5dp</dimen>
+
+    <dimen name="ico_info_item_bar_width">@dimen/info_bar_height</dimen>
+
+    <dimen name="guitar_icon_toolbar_width">40dp</dimen>
+    <dimen name="guitar_icon_toolbar_height">40dp</dimen>
+
+</resources>

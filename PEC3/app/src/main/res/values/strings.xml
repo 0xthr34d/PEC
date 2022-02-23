@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guitargram</string>
+    <string name="rating_star_toolbar">Rating</string>
+    <string name="options_toolbar">Options</string>
+    <string name="icon_toolbar">Icon</string>
+    <string name="back_icon">Back</string>
+</resources>
